@@ -1,2 +1,5 @@
 # Warrior.inc
-A JAVA SWING based gaming application
+Warrior.inc is a JAVA SWING based gaming application.
+
+## Control keys
+** JUMP ** -
